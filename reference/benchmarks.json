@@ -1,0 +1,21 @@
+{
+  "calibration": {
+    "sigma_e0_MPa": 270.0,
+    "A_comp": 0.6,
+    "B_comp": 0.5,
+    "Lc_mm_demo": 5.0,
+    "eta": 0.0001,
+    "note": "sigma_e0, A_comp, B_comp are provisional calibration values, not tabulated paper constants."
+  },
+  "validated_results": {
+    "parallel_compression_peak_MPa": 39.4728,
+    "parallel_compression_peak_strain": 0.03273,
+    "parallel_compression_final_MPa": 34.4947,
+    "parallel_compression_final_d1": 0.728024,
+    "perpendicular_compression_final_MPa": 3.4154,
+    "parallel_tension_peak_MPa": 20.2593,
+    "parallel_tension_final_d1": 0.632808,
+    "perpendicular_tension_peak_MPa": 0.6918,
+    "perpendicular_tension_final_d2": 0.962127
+  }
+}
